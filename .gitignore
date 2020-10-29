@@ -13,7 +13,7 @@ media
 *$py.class
 
 *.so
-
+/media
 
 .Python
 build/
@@ -59,7 +59,7 @@ pytestdebug.log
 
 *.mo
 
-
+/static
 instance/
 .webassets-cache
 
