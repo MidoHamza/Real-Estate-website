@@ -105,7 +105,7 @@ pythonenv*
 
 .spyderproject
 .spyproject
-
+.vscode/
 
 .ropeproject
 
@@ -127,5 +127,6 @@ dmypy.json
 .prof
 
 /btre/.settings.py
+/btre/.local_settings.py
 
 settings.py
