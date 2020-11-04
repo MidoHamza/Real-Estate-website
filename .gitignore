@@ -126,7 +126,11 @@ dmypy.json
 
 .prof
 
-/btre/.settings.py
-/btre/.local_settings.py
+btre/settings.py
+btre/local_settings.py
 
 settings.py
+settings.py
+btre/settings.py
+settings.py
+btre/settings.py
